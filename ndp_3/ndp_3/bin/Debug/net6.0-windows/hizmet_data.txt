@@ -1,0 +1,17 @@
+1:Saç:Fön:400:1 Saat
+2:Saç:Kesim:1000:1 Saat
+3:Saç:Topuz:1250:1 Saat
+4:Saç:Maşa:1100:1 Saat
+5:Saç:Dip Boya:1500:1 Saat
+6:Saç:Röfle:2000:1 Saat
+7:Saç:Ombre:3000:1 Saat
+8:Saç:Keratin:1500:1 Saat
+9:Bakım:Manikür:400:1 Saat:
+10:Bakım:Pedikür:500:1 Saat:
+11:Bakım:Kaş Alma:300:1 Saat:
+12:Bakım:Tüm Ağda:800:1 Saat:
+13:Makyaj:Günlük Makyaj:900:1 Saat:
+14:Makyaj:Gece Makyajı:1800:1 Saat:
+15:Makyaj:Takma Kirpik:500:1 Saat:
+16:Makyaj:Lifting:600:1 Saat:
+17:Makyaj:İpek Kirpik:1000:1 Saat:
