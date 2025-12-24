@@ -1,7 +1,0 @@
-27 Mayıs 2024 Pazartesi:Müşteri1:0123456789:Saç:Fön:09.00:
-27 Mayıs 2024 Pazartesi:Müşteri2:0123456789:Saç:Kesim:09.00:
-27 Mayıs 2024 Pazartesi:Müşteri3:0123456789:Saç:Fön:10.00:
-27 Mayıs 2024 Pazartesi:Müşteri4:0123456789:Makyaj:Gece Makyajı:09.00:
-27 Mayıs 2024 Pazartesi:Müşteri5:0123456789:Makyaj:Takma Kirpik:09.00:
-27 Mayıs 2024 Pazartesi:Müşteri6:0123456789:Bakım:Kaş Alma:09.00:
-27 Mayıs 2024 Pazartesi:Müşteri7:0123456789:Bakım:Pedikür:09.00:
